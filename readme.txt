@@ -1,5 +1,5 @@
 === Stratos Payment Gateway ===
-Contributors: justwallet                                 // OPTIONAL: Remove the entire line if you don't have one, or provide a valid URL.
+Contributors: stratospay                          // OPTIONAL: Remove the entire line if you don't have one, or provide a valid URL.
 Tags: payments, woocommerce, gateway, stratos, checkout, crypto, api
 Requires at least: 5.0
 Tested up to: 6.5.3                             // IMPORTANT: Update to the current WordPress version you tested with (e.g., 6.5.3)
